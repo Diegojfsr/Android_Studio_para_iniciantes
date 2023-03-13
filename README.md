@@ -67,7 +67,13 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   
 </ul>
 
-
+<h2 dir="auto"> 📺 Cursos Grátis </h2>
+<ul dir="auto">
+  <li><a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73"> CFBCursos - Curso de Android Studio. </a></li>
+  <li><a href="https://"> Video 2. </a></li>
+  <li><a href="https://"> Video 3. </a></li>
+  
+</ul>
 
 
 
