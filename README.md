@@ -32,8 +32,46 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
  <li> Notificações Toast. <a href="https://"> Acessar </a> </li>
  <li> Caixas de Mensagens - AlertDialog. <a href="https://"> Acessar </a> </li>
  
- 
 </ul>
+
+
+<h2 dir="auto"> 🔗 Links Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Link 1. </a></li>
+  <li><a href="https://"> Link 2. </a></li>
+  <li><a href="https://"> Link 3. </a></li>
+  
+</ul>
+
+<h2 dir="auto"> 🔗 Comandos Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Comando 1. </a></li>
+  <li><a href="https://"> Comando 2. </a></li>
+  <li><a href="https://"> Comando 3. </a></li>
+  
+</ul>
+
+<h2 dir="auto"> 🔗 Repositórios Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Repositório 1. </a></li>
+  <li><a href="https://"> Repositório 2. </a></li>
+  <li><a href="https://"> Repositório 3. </a></li>
+  
+</ul>
+
+<h2 dir="auto"> 📺 Videos Úteis </h2>
+<ul dir="auto">
+  <li><a href="https://"> Video 1. </a></li>
+  <li><a href="https://"> Video 2. </a></li>
+  <li><a href="https://"> Video 3. </a></li>
+  
+</ul>
+
+
+
+
+
+
 
 
 
