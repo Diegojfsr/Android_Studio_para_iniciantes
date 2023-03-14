@@ -18,7 +18,6 @@ Repositório criado para documentar e armazenar dicas, códigos, exercícios e p
 <h2> 🎯 Objetivo </h2>
 A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender Android Studio, porém está meio perdido.
 
-
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
  <li> Instalação e Configuração do Android Studio. <a href="https://">Acessar</a> </li>
