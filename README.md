@@ -43,6 +43,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   
 </ul>
 
+
 <h2 dir="auto"> 👩🏻‍💻 Comandos Úteis </h2>
 <ul dir="auto">
   <li><a href="https://"> Comando 1. </a></li>
