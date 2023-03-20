@@ -44,7 +44,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> MLink 1. </a></li>
+  <li><a href="https://"> Link 1. </a></li>
   <li><a href="https://"> Link 2. </a></li>
   <li><a href="https://"> Link 3. </a></li>
   
