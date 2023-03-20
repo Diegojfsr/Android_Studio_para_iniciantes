@@ -69,8 +69,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> Video 1. </a></li>
-  <li><a href="https://"> Video 2. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=7zI2P3yHVEI"> Allan Vidal-Exemplo com a Soma de Dois Números. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=ktqGkJGRkEM"> Alessandra Pensadora-Como Criar Um Aplicativo para Somar 2 Números no Android Studio 4.1.2 </a></li>
   <li><a href="https://"> Video 3. </a></li>
   
 </ul>
