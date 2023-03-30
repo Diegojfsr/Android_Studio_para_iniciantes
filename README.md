@@ -71,8 +71,9 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <ul dir="auto">
   <li><a href="https://www.youtube.com/watch?v=7zI2P3yHVEI"> Allan Vidal-Exemplo com a Soma de Dois Números. </a></li>
   <li><a href="https://www.youtube.com/watch?v=ktqGkJGRkEM"> Alessandra Pensadora-Como Criar Um Aplicativo para Somar 2 Números no Android Studio 4.1.2 </a></li>
-  <li><a href="https://www.youtube.com/watch?v=ktqGkJGRkEM"> Alessandra Pensadora-Como Criar Menus no Android Studio. </a></li>
-  
+  <li><a href="https://www.youtube.com/watch?v=zSrw2LUfMHo"> Alessandra Pensadora-Como Criar Menus no Android Studio. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=THjsnQp770c"> CFBCursos - Programando o Menu de Opções no Android Studio. </a></li> 
+  <li><a href="https://www.youtube.com/watch?v=svJNYjO0rS0"> Tiago Aguiar - COMO CRIAR MENUS NO ANDROID. </a></li> 
 </ul>
 
 <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
