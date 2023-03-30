@@ -38,7 +38,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <ul dir="auto">
   <li><a href="https://www.notion.so/diegojfsr/CFBCursos-Curso-de-Android-Studio-6dab671776a1487eaaa2bf7a796e6d9d"> Minhas Anotações durante o CFBCursos. </a></li>
   <li><a href="https://www.notion.so/diegojfsr/Exemplo-com-a-Soma-de-Dois-N-meros-9906c6c2b036415c9c2e43596beaf078"> Exemplos Soma de Dois Numeros. </a></li>
-  <li><a href="https://www.notion.so/diegojfsr/Alessandra-Pensadora-41a6980c621d471990fbec95aff8e7c7"> Como Criar Menus no Android Studio. </a></li>
+  <li><a href="https://www.notion.so/diegojfsr/Como-Criar-Menus-no-Android-Studio-5ce353ae681d458abcba4540c0f6e253"> Como Criar Menus no Android Studio. </a></li>
   <li><a href="https://www.notion.so/diegojfsr/Alessandra-Pensadora-1c768f1b3b944dd38cebd377caa243ed"> Como Navegar Entre Telas. </a></li>
   
 </ul>
