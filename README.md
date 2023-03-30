@@ -37,8 +37,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <h2 dir="auto"> 📝 Minhas Anotações </h2>
 <ul dir="auto">
   <li><a href="https://www.notion.so/diegojfsr/CFBCursos-Curso-de-Android-Studio-6dab671776a1487eaaa2bf7a796e6d9d"> Minhas Anotações durante o CFBCursos. </a></li>
-  <li><a href="https://www.notion.so/diegojfsr/Exemplo-com-a-Soma-de-Dois-N-meros-9906c6c2b036415c9c2e43596beaf078"> Exemplos Soma de Dois Numeros </a></li>
-  <li><a href="https://"> Link 3. </a></li>
+  <li><a href="https://www.notion.so/diegojfsr/Exemplo-com-a-Soma-de-Dois-N-meros-9906c6c2b036415c9c2e43596beaf078"> Exemplos Soma de Dois Numeros. </a></li>
+  <li><a href="https://www.notion.so/diegojfsr/Alessandra-Pensadora-41a6980c621d471990fbec95aff8e7c7"> Como Criar Menus no Android Studio. </a></li>
   
 </ul>
 
@@ -71,7 +71,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <ul dir="auto">
   <li><a href="https://www.youtube.com/watch?v=7zI2P3yHVEI"> Allan Vidal-Exemplo com a Soma de Dois Números. </a></li>
   <li><a href="https://www.youtube.com/watch?v=ktqGkJGRkEM"> Alessandra Pensadora-Como Criar Um Aplicativo para Somar 2 Números no Android Studio 4.1.2 </a></li>
-  <li><a href="https://"> Video 3. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=ktqGkJGRkEM"> Alessandra Pensadora-Como Criar Menus no Android Studio. </a></li>
   
 </ul>
 
