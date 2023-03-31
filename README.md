@@ -50,7 +50,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=zSrw2LUfMHo"> Alessandra Pensadora-Como Criar Menus no Android Studio. </a></li>
   <li><a href="https://www.youtube.com/watch?v=THjsnQp770c"> CFBCursos - Programando o Menu de Opções no Android Studio. </a></li> 
   <li><a href="https://www.youtube.com/watch?v=svJNYjO0rS0"> Tiago Aguiar - COMO CRIAR MENUS NO ANDROID. </a></li> 
-  <li><a href="https://www.youtube.com/watch?v=E-9XZIa9Okw"> Alessandra Pensadora - Como Navegar Entre Telas e Mudar a Orientação da Tela no Android Studio. </a></li> 
+  <li><a href="https://www.youtube.com/watch?v=E-9XZIa9Okw"> Alessandra Pensadora - Como Navegar Entre Telas e Mudar a Orientação da Tela no Android Studio. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=629qVxiWonM"> Stack Mobile - Android Para Iniciantes, Navegação Entre Telas. </a></li> 
 </ul>
 
 <h2 dir="auto"> 👨🏼‍🏫 Cursos Úteis </h2>
