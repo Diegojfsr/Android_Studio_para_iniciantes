@@ -80,14 +80,6 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 </ul>
 
 
-<h2 dir="auto"> 👩🏻‍💻 Comandos Úteis </h2>
-<ul dir="auto">
-  <li><a href="https://"> Comando 1. </a></li>
-  <li><a href="https://"> Comando 2. </a></li>
-  <li><a href="https://"> Comando 3. </a></li>
-  
-</ul>
-
 <h2 dir="auto"> 💼 Repositórios Úteis </h2>
 <ul dir="auto">
   <li><a href="https://"> Repositório 1. </a></li>
