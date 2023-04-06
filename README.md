@@ -54,7 +54,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=E-9XZIa9Okw"> Alessandra Pensadora - Como Navegar Entre Telas e Mudar a Orientação da Tela no Android Studio. </a></li>
   <li><a href="https://www.youtube.com/watch?v=629qVxiWonM"> Stack Mobile - Android Para Iniciantes, Navegação Entre Telas. </a></li> 
   <li><a href="https://www.youtube.com/watch?v=OSFrZ3yQEII"> Stack Mobile - Criando um App de Barbearia com Agendamento Ui Design + Funcionalidades. </a></li> 
-  
+  <li><a href="https://www.youtube.com/watch?v=tipt9kbPFq4"> Stack Mobile - E-Commerce de Móveis - UI Design. </a></li> 
 
   
   
