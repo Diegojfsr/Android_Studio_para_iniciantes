@@ -42,7 +42,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.notion.so/diegojfsr/Como-Criar-Menus-no-Android-Studio-5ce353ae681d458abcba4540c0f6e253"> Como Criar Menus no Android Studio. </a></li>
   <li><a href="https://www.notion.so/diegojfsr/Como-Navegar-Entre-Telas-73192d1fdc4b483a8995d5ba7f07491b"> Como Navegar Entre Telas. </a></li>
   <li><a href="https://www.notion.so/diegojfsr/Como-criar-uma-Splash-Screen-f3b8353bd1214b83a62749de55d0c6d6"> Como criar uma Splash Screen. </a></li>
-  <li><a href="https://www.notion.so/diegojfsr/Construindo-Layout-f07b1e3c911a41c0af4a65b17391a3d8"> Construindo Layout P1. </a></li>
+  <li><a href="https://www.notion.so/diegojfsr/Construindo-Layout-f07b1e3c911a41c0af4a65b17391a3d8"> Construindo Layout. </a></li>
   
 </ul>
 
