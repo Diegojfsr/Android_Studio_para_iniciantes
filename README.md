@@ -57,7 +57,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=OSFrZ3yQEII"> Stack Mobile - Criando um App de Barbearia com Agendamento Ui Design + Funcionalidades. </a></li> 
   <li><a href="https://www.youtube.com/watch?v=tipt9kbPFq4"> Stack Mobile - E-Commerce de Móveis - UI Design. </a></li> 
   <li><a href="https://www.youtube.com/watch?v=NQWB1y_GeCk"> Stack Mobile - Como criar uma Splash Screen no Android Studio | Tela Inicial do App - 2023. </a></li> 
-
+  <li><a href="https://www.youtube.com/watch?v=FUjZCIJ4L48"> CFBCursos - Construindo Layout no Android Studio #P1 </a></li> 
+  <li><a href="https://www.youtube.com/watch?v=Vnib4ryv6Ic"> CFBCursos - Construindo Layout no Android Studio #P2 </a></li>
   
   
   
