@@ -77,8 +77,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-  <li><a href="https://"> Link 1. </a></li>
-  <li><a href="https://"> Link 2. </a></li>
+  <li><a href="https://developer.android.com/guide/fragments?hl=pt-br"> Visão geral sobre Fragmentos (Site). </a></li>
+  <li><a href="https://www.sqliteexpert.com/download.html"> SQLite Expert Personal (Site). </a></li>
   <li><a href="https://"> Link 3. </a></li>
   
 </ul>
