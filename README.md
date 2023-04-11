@@ -60,6 +60,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=NQWB1y_GeCk"> Stack Mobile - Como criar uma Splash Screen no Android Studio | Tela Inicial do App - 2023. </a></li> 
   <li><a href="https://www.youtube.com/watch?v=FUjZCIJ4L48"> CFBCursos - Construindo Layout no Android Studio #P1 </a></li> 
   <li><a href="https://www.youtube.com/watch?v=Vnib4ryv6Ic"> CFBCursos - Construindo Layout no Android Studio #P2 </a></li>
+  <li><a href="https://www.youtube.com/watch?v=qx57I7uZznA"> Professor Leomar Duarte -  Intent (Abrir outra Tela/Activity) </a></li>
   
   
   
