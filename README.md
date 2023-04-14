@@ -80,7 +80,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <ul dir="auto">
   <li><a href="https://developer.android.com/guide/fragments?hl=pt-br"> Visão geral sobre Fragmentos (Site). </a></li>
   <li><a href="https://www.sqliteexpert.com/download.html"> SQLite Expert Personal (Site). </a></li>
-  <li><a href="https://"> Link 3. </a></li>
+  <li><a href="https://developer.android.com/training/data-storage/sqlite?hl=pt-br#java"> Salvar dados usando o SQLite (Site). </a></li>
   
 </ul>
 
