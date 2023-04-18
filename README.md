@@ -63,7 +63,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=qx57I7uZznA"> Professor Leomar Duarte -  Intent (Abrir outra Tela/Activity) </a></li>
   <li><a href="https://www.youtube.com/watch?v=abdl6kfgo5A"> Professor Leomar Duarte -  Intent com Passagem de Valor entre Activity's </a></li>
   <li><a href="https://www.youtube.com/watch?v=1HUEWgxiRxA"> Tiago Aguiar - ANDROID SPLASH SCREEN - TUTORIAL </a></li>
-  
+  <li><a href="https://www.youtube.com/watch?v=UViXEKSIsFc"> Fsociety Devs - COMO CRIAR UMA TELA DE SPLASH PARA SEU APP </a></li>
   
 </ul>
 
