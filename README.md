@@ -65,8 +65,9 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=1HUEWgxiRxA"> Tiago Aguiar - ANDROID SPLASH SCREEN - TUTORIAL </a></li>
   <li><a href="https://www.youtube.com/watch?v=UViXEKSIsFc"> Fsociety Devs - COMO CRIAR UMA TELA DE SPLASH PARA SEU APP </a></li>
   <li><a href="https://www.youtube.com/watch?v=oh4YOj9VkVE"> Coding in Flow - Options Menu with Sub Items </a></li>
-  <li><a href="https://www.youtube.com/watch?v=KwpuAhYrIpU"> UiLover Android - Android Studio Tutorial - Android Material Design </a></li>
-  <li><a href="https://www.youtube.com/watch?v=LOcD1evBcSA"> Angga Risky - Android Studio Tutorial - Modern Dashboard UI Design </a></li>
+  <li><a href="https://www.youtube.com/watch?v=KwpuAhYrIpU"> UiLover Android - Android Material Design </a></li>
+  <li><a href="https://www.youtube.com/watch?v=LOcD1evBcSA"> Angga Risky - Modern Dashboard UI Design </a></li>
+  <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Stack Mobile - Android Navigation Drawer, criar e configurar do zero, completo e Atualizado </a></li>
   
 </ul>
 
