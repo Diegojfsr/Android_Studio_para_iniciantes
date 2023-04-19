@@ -76,6 +76,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUhKFaIEC-3ODcoHUEqXjG73"> CFBCursos - Curso de Android Studio. </a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLizN3WA8HR1y0DMrcNIz8sZvzXzRM-WNQ"> Stack Mobile - Projeto Firebase/Android Studio. </a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLmBg5JJnAjs80md229_D-MnxaVbK0qx4G"> Alessandra Pensadora - Desenvolvimento de Aplicativos Android. </a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLZCMLqQ7FqfRAo-2QTRqvRuhuavcFwD-C"> Área Tech Brasil - Curso completo de Android Studio. </a></li>
   
 </ul>
 
