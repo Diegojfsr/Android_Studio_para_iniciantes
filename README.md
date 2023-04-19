@@ -68,6 +68,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=KwpuAhYrIpU"> UiLover Android - Android Material Design </a></li>
   <li><a href="https://www.youtube.com/watch?v=LOcD1evBcSA"> Angga Risky - Modern Dashboard UI Design </a></li>
   <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Stack Mobile - Android Navigation Drawer, criar e configurar do zero. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Área Tech Brasil - Recuperar dados e manipular os componentes de interface EditText. </a></li>
   
 </ul>
 
