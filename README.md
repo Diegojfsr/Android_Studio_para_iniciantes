@@ -70,6 +70,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Stack Mobile - Android Navigation Drawer, criar e configurar do zero. </a></li>
   <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Área Tech Brasil - Recuperar dados e manipular os componentes de interface EditText. </a></li>
   <li><a href="https://www.youtube.com/watch?v=jCxpn5at3tE"> Área Tech Brasil - COMO CRIAR UM APLICATIVO DO ZERO(Calculadora de IMC) </a></li>
+  <li><a href="https://www.youtube.com/watch?v=9iXnwMkfa60"> Área Tech Brasil - COMO CRIAR UM APLICATIVO DO ZERO(APLICATIVO DE LISTA) </a></li>
   
 </ul>
 
