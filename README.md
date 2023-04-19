@@ -71,8 +71,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=phM9CGwBb04"> Área Tech Brasil - Recuperar dados e manipular os componentes de interface EditText. </a></li>
   <li><a href="https://www.youtube.com/watch?v=jCxpn5at3tE"> Área Tech Brasil - COMO CRIAR UM APLICATIVO DO ZERO(Calculadora de IMC) </a></li>
   <li><a href="https://www.youtube.com/watch?v=9iXnwMkfa60"> Área Tech Brasil - COMO CRIAR UM APLICATIVO DO ZERO(APLICATIVO DE LISTA) </a></li>
-  <li><a href="https://www.youtube.com/watch?v=kO4SuONjvMc"> Professor Caio Morceli - Trabalhando com o componente CardView- Parte 1 </a></li>
-  <li><a href="https://www.youtube.com/watch?v=kO4SuONjvMc"> Professor Caio Morceli - Trabalhando com o componente CardView- Parte 1 </a></li>
+  <li><a href="https://www.youtube.com/watch?v=kO4SuONjvMc"> Professor Caio Morceli - Trabalhando com o componente CardView(Prt1) </a></li>
+  <li><a href="https://youtu.be/al6henJU2hI"> Professor Caio Morceli - AppLogin(Prt1) </a></li>
   
 </ul>
 
