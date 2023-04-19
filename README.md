@@ -66,6 +66,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=UViXEKSIsFc"> Fsociety Devs - COMO CRIAR UMA TELA DE SPLASH PARA SEU APP </a></li>
   <li><a href="https://www.youtube.com/watch?v=oh4YOj9VkVE"> Coding in Flow - Options Menu with Sub Items </a></li>
   <li><a href="https://www.youtube.com/watch?v=KwpuAhYrIpU"> UiLover Android - Android Studio Tutorial - Android Material Design </a></li>
+  <li><a href="https://www.youtube.com/watch?v=LOcD1evBcSA"> Angga Risky - Android Studio Tutorial - Modern Dashboard UI Design </a></li>
   
 </ul>
 
