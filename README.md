@@ -89,6 +89,8 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://developer.android.com/training/data-storage/sqlite?hl=pt-br#java"> Salvar dados usando o SQLite (Site). </a></li>
   <li><a href="https://www.devmedia.com.br/como-criar-telas-de-abertura-no-android/33256"> Como criar telas de abertura no Android(DevMedia). </a></li>
   <li><a href="https://proandroiddev.com/splash-screen-in-android-3bd9552b92a5"> Tela inicial no Android. </a></li>
+  <li><a href="https://medium.com/@androidcookies1/menu-types-in-android-with-tutorial-4ebd402ebf83"> Tipos de Menu no Android com Tutorial. </a></li>
+  <li><a href="http://theclub.com.br/Restrito/Revistas/201203/andr1203.aspx"> Navegando entre telas. </a></li>
   
 </ul>
 
