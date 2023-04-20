@@ -74,6 +74,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
   <li><a href="https://www.youtube.com/watch?v=kO4SuONjvMc"> Professor Caio Morceli - Trabalhando com o componente CardView(Prt1) </a></li>
   <li><a href="https://www.youtube.com/watch?v=al6henJU2hI"> Professor Caio Morceli - AppLogin(Prt1) </a></li>
   <li><a href="https://www.youtube.com/watch?v=KGssmPyohH0"> Professor Caio Morceli - Trabalhando com botões(Prt1) </a></li>
+  <li><a href="https://www.youtube.com/watch?v=7Opv4koKiN4"> Edson C Baptista - Navegação entre Telas. </a></li>
   
   
 </ul>
